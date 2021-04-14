@@ -1,7 +1,7 @@
 /* variable declarations */
 var isplaying=false;
 var scheck=null;
-var slist =     ['https://dl.dropbox.com/s/5jyylqps64nyoez/Legends%20never%20die.mp3?dl=0',
+var slist =     ['Xcho & Macan - Memories.mp3',
 'https://dl.dropbox.com/s/x6f49cu1rdqnngu/Let%20Me%20Love%20You.mp3?dl=0',
 'https://dl.dropbox.com/s/e5y42cc90ugx09t/Believer.mp3?dl=0',
 'https://dl.dropbox.com/s/1m7gbqazma8e6dw/The%20World%20english%20cover.mp3?dl=0',
@@ -12,7 +12,7 @@ var slist =     ['https://dl.dropbox.com/s/5jyylqps64nyoez/Legends%20never%20die
                  'https://dl.dropbox.com/s/1sw4ysdgmkb5dse/Salvation.mp3?dl=0'
 ];
 var simg = ['https://i.imgur.com/iki9Pf8.jpg', 'https://i.imgur.com/dNPF8fK.jpg', 'https://i.imgur.com/MP9cRir.jpg', 'https://i.imgur.com/7CUyRzo.png', 'https://i.imgur.com/vWXjAVK.jpg', 'https://i.imgur.com/q85hkhY.jpg', 'https://i.imgur.com/5Fyhevf.jpg', 'https://i.imgur.com/YJsyjQR.jpg', 'https://i.imgur.com/EO1jTSe.jpg' ];
-var sname = ['Legends never die','Let me love you','Believer','The world (english cover)','Unravel', 'I am kira', 'Obey me world', 'Kira vs zero', 'Salvation'];
+var sname = ['Xcho & Macan - Memories','Let me love you','Believer','The world (english cover)','Unravel', 'I am kira', 'Obey me world', 'Kira vs zero', 'Salvation'];
 /* end variable declarations */
 
 function splay(){  
