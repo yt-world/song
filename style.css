@@ -58,10 +58,10 @@ input[type='radio']{
 }
 
 input[value='one']::before{
-    content: "Legends never die";
+    content: "Xcho & Macon - Memories";
 }
 input[value='one']:checked::before{
-    content: "=> Legends never die";
+    content: "=> Xcho & Macon - Memories";
 }
 input[value='two']::before{
     content: "Let me love you";
