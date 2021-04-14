@@ -76,10 +76,10 @@ input[value='three']:checked::before{
     content: "=> Believer";
 }
 input[value='four']::before{
-    content: "The world (english cover)";
+    content: "Konfuz - Ратата";
 }
 input[value='four']:checked::before{
-    content: "=> The world (english cover)";
+    content: "=> Konfuz - Ратата";
 }
 input[value='five']::before{
     content: "Unravel";
