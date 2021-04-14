@@ -64,10 +64,10 @@ input[value='one']:checked::before{
     content: "=> Xcho & Macon - Memories";
 }
 input[value='two']::before{
-    content: "Let me love you";
+    content: "Xcho & Mr Lambo & Пабло - Дай Мне Огня.mp3";
 }
 input[value='two']:checked::before{
-    content: "=> Let me love you";
+   content: "=> Xcho & Mr Lambo & Пабло - Дай Мне Огня.mp3";
 }
 input[value='three']::before{
     content: "Believer";
