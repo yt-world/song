@@ -11,7 +11,7 @@ var slist =     ['Xcho & Macan - Memories.mp3',
                  'https://dl.dropbox.com/s/c8rinnz3l7uerle/Kira%20vs%20zero.mp3?dl=0', 
                  'https://dl.dropbox.com/s/1sw4ysdgmkb5dse/Salvation.mp3?dl=0'
 ];
-var simg = ['https://sefon.pro/img/artist_photos/xcho.jpg', 'hhttps://sefon.pro/img/artist_photos/mr-lambo.jpg', 'https://i.imgur.com/MP9cRir.jpg', 'https://i.imgur.com/7CUyRzo.png', 'https://i.imgur.com/vWXjAVK.jpg', 'https://i.imgur.com/q85hkhY.jpg', 'https://i.imgur.com/5Fyhevf.jpg', 'https://i.imgur.com/YJsyjQR.jpg', 'https://i.imgur.com/EO1jTSe.jpg' ];
+var simg = ['https://sefon.pro/img/artist_photos/xcho.jpg', 'https://sefon.pro/img/artist_photos/mr-lambo.jpg', 'https://i.imgur.com/MP9cRir.jpg', 'https://i.imgur.com/7CUyRzo.png', 'https://i.imgur.com/vWXjAVK.jpg', 'https://i.imgur.com/q85hkhY.jpg', 'https://i.imgur.com/5Fyhevf.jpg', 'https://i.imgur.com/YJsyjQR.jpg', 'https://i.imgur.com/EO1jTSe.jpg' ];
 var sname = ['Xcho & Macan - Memories','Xcho & Mr Lambo & Пабло - Дай Мне Огня','Believer','The world (english cover)','Unravel', 'I am kira', 'Obey me world', 'Kira vs zero', 'Salvation'];
 /* end variable declarations */
 
